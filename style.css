@@ -1,0 +1,75 @@
+
+*{
+  margin:0px;
+  padding: 0px;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+/*=======================================*/
+header{
+  display: flex;
+  width: 90%;
+  margin: auto;
+  background-color: rgb(189, 255, 255);
+}
+.cart img{
+  width: 50px;
+}
+header img{
+  max-width: 7vw;
+}
+
+
+
+h1 {
+  text-align: center;
+  font-size: 50;
+  font-family: Arial, Helvetica, sans-serif;
+
+  margin: 5vh;
+  padding: 3vh;
+  color: white;
+  background-color: rgb(97, 162, 40);
+}
+.bildetekst-wrap {
+  display: flex;
+  margin: 5vh;
+}
+.intro {
+  background-color: rgb(97, 162, 40);
+  padding: 20px;
+  line-height: 1.5;
+  flex: 1;
+  color: rgb(255, 255, 255);
+  font-size: 1.5vw;
+}
+.kiwibilde1 {
+  flex: 1;
+}
+img {
+  max-width: 50vw;
+}
+.dato {
+  font-size: 20px;
+  text-align: end;
+  margin: 5vw;
+}
+.seven {
+  padding: 10px;
+  border-top: solid rgb(255, 255, 255);
+  border-bottom: solid rgb(255, 255, 255);
+  margin: 2vw;
+  border-width: 10px;
+}
+.checkboxes {
+  text-align: center;
+  background-color: rgb(97, 162, 40);
+  line-height: 180%;
+  color: white;
+}
+.checkboxes h2{
+  font-size: larger;
+}
+.knapp{
+
+}
